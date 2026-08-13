@@ -1,0 +1,451 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Research Papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenFL: An open-source framework for Federated Learning",
+          "description": ", preprint. [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-21T16:41:42Z",
+            "owner": "securefederatedai",
+            "repo": "openfederatedlearning",
+            "stars": 842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FedBN: Federated Learning on Non-IID Features via Local Batch Normalization",
+          "description": ", ICLR 2021 [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-13T03:27:07Z",
+            "owner": "med-air",
+            "repo": "FedBN",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FedSim: Similarity guided model aggregation for Federated Learning",
+          "description": ", Neurocomputing Journal, [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-22T16:24:07Z",
+            "owner": "chamathpali",
+            "repo": "FedSim",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Federated Visual Classification with Real-World Data Distribution",
+          "description": ", ECCV 2020 [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T12:20:59Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 38526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FedML: A Research Library and Benchmark for Federated Machine Learning",
+          "description": ", preprint [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-28T12:44:12Z",
+            "owner": "FedML-AI",
+            "repo": "FedML",
+            "stars": 4055
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Federated Optimization in Heterogeneous Networks",
+          "description": ", MLSYS 2020 [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-24T21:55:06Z",
+            "owner": "litian96",
+            "repo": "FedProx",
+            "stars": 733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "On the Convergence of FedAvg on Non-IID Data",
+          "description": ", ICLR 2020. [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-07T01:14:28Z",
+            "owner": "lx10077",
+            "repo": "fedavgpy",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Center Federated Learning",
+          "description": ", preprint [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-03T12:28:11Z",
+            "owner": "anonymousgit2020",
+            "repo": "fedsem",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "2020"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "On the Convergence of FedAvg on Non-IID Data",
+          "description": ", preprint. [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-07T01:14:28Z",
+            "owner": "lx10077",
+            "repo": "fedavgpy",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Record and Reward Federated Learning Contributions with Blockchain",
+          "description": ", IEEE CyberC 2019, [Code] ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-24T00:07:45Z",
+            "owner": "sreyafrancis",
+            "repo": "BlockchainForFederatedLearning",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clustered Federated Learning: Model-Agnostic Distributed Multi-Task Optimization under Privacy Constraints",
+          "description": ", IEEE Transaction on Neural Nets, [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-03-16T01:41:05Z",
+            "owner": "felisat",
+            "repo": "clustered-federated-learning",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robust and Communication-Efficient Federated Learning from Non-IID Data",
+          "description": ", preprint. [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-11T13:55:02Z",
+            "owner": "felisat",
+            "repo": "federated-learning",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Private Neural Language Modeling with Attentive Aggregation",
+          "description": ", IJCNN 2019. [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-25T10:13:51Z",
+            "owner": "shaoxiongji",
+            "repo": "fed-att",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Federated Learning for Ranking Browser History Suggestions",
+          "description": ", preprint. [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-07-06T23:18:09Z",
+            "owner": "florian",
+            "repo": "federated-learning",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "2019"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PySyft - Github",
+          "description": "The PyTorch based library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:26:40Z",
+            "owner": "OpenMined",
+            "repo": "PySyft",
+            "stars": 9938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Industrial Federated Learning Framework",
+          "description": ", Federated AI Technology Enabler, WeBank AI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-19T08:19:11Z",
+            "owner": "FederatedAI",
+            "repo": "FATE",
+            "stars": 6089
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyTorch Federated Learning - Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-25T10:13:30Z",
+            "owner": "shaoxiongji",
+            "repo": "federated-learning",
+            "stars": 1513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenFL",
+          "description": "An open-source framework for Federated Learning on top of TF/PyTorch/etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-21T16:41:42Z",
+            "owner": "securefederatedai",
+            "repo": "openfederatedlearning",
+            "stars": 842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paddle Federated Learning",
+          "description": "Federated Deep Learning in PaddlePaddle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-26T22:30:56Z",
+            "owner": "PaddlePaddle",
+            "repo": "PaddleFL",
+            "stars": 512
+          }
+        }
+      ],
+      "title": "Libraries/Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PySyft",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:26:40Z",
+            "owner": "OpenMined",
+            "repo": "PySyft",
+            "stars": 9938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenFL",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-21T16:41:42Z",
+            "owner": "securefederatedai",
+            "repo": "openfederatedlearning",
+            "stars": 842
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Federated iNaturalist/Landmarks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T12:20:59Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 38526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LEAF",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-24T22:54:33Z",
+            "owner": "TalwalkarLab",
+            "repo": "leaf",
+            "stars": 911
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "PhotoLabeller by Jose A. Corbacho",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Client",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Kotlin",
+                "last_commit": "2019-03-18T10:34:39Z",
+                "owner": "mccorby",
+                "repo": "PhotoLabeller",
+                "stars": 150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Server",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Kotlin",
+                "last_commit": "2018-10-07T07:08:44Z",
+                "owner": "mccorby",
+                "repo": "PhotoLabellerServer",
+                "stars": 50
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Ownership Protocol by Qibing Lee",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DataToken",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2021-06-12T16:21:28Z",
+                "owner": "MVP-Labs",
+                "repo": "data-token",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Compute-to-Data",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2021-06-15T05:59:39Z",
+                "owner": "MVP-Labs",
+                "repo": "compute-to-data",
+                "stars": 11
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Projects"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:05:07.950Z",
+    "original_repository": "tushar-semwal/awesome-federated-computing",
+    "original_repository_sha": "94ee0eb5300621f9dcf148252e2558ba9fbf8aef",
+    "enhanced_repository": "enhansome/enhansome-federated-computing",
+    "enhanced_repository_description": null,
+    "title": "Awesome Federated Computing with stars"
+  }
+}
