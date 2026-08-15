@@ -64,10 +64,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T19:06:46Z",
+            "last_commit": "2026-08-14T22:49:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38532
+            "stars": 38537
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2025-10-28T12:44:12Z",
             "owner": "FedML-AI",
             "repo": "FedML",
-            "stars": 4056
+            "stars": 4057
           }
         },
         {
@@ -230,7 +230,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T22:26:40Z",
+            "last_commit": "2026-08-14T12:39:22Z",
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 9937
@@ -261,7 +261,7 @@
             "last_commit": "2024-07-25T10:13:30Z",
             "owner": "shaoxiongji",
             "repo": "federated-learning",
-            "stars": 1514
+            "stars": 1513
           }
         },
         {
@@ -306,7 +306,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T22:26:40Z",
+            "last_commit": "2026-08-14T12:39:22Z",
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 9937
@@ -340,10 +340,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T19:06:46Z",
+            "last_commit": "2026-08-14T22:49:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38532
+            "stars": 38537
           }
         },
         {
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:26:49.208Z",
+    "last_updated": "2026-08-15T09:44:21.982Z",
     "original_repository": "tushar-semwal/awesome-federated-computing",
     "original_repository_sha": "94ee0eb5300621f9dcf148252e2558ba9fbf8aef",
     "enhanced_repository": "enhansome/enhansome-federated-computing",
