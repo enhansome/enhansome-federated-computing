@@ -67,7 +67,7 @@
             "last_commit": "2026-08-14T22:49:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38537
+            "stars": 38544
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2025-10-28T12:44:12Z",
             "owner": "FedML-AI",
             "repo": "FedML",
-            "stars": 4057
+            "stars": 4058
           }
         },
         {
@@ -233,7 +233,7 @@
             "last_commit": "2026-08-14T12:39:22Z",
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 9937
+            "stars": 9936
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2026-08-14T12:39:22Z",
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 9937
+            "stars": 9936
           }
         },
         {
@@ -343,7 +343,7 @@
             "last_commit": "2026-08-14T22:49:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38537
+            "stars": 38544
           }
         },
         {
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T09:44:21.982Z",
+    "last_updated": "2026-08-16T09:46:23.447Z",
     "original_repository": "tushar-semwal/awesome-federated-computing",
     "original_repository_sha": "94ee0eb5300621f9dcf148252e2558ba9fbf8aef",
     "enhanced_repository": "enhansome/enhansome-federated-computing",
