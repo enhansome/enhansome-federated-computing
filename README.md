@@ -71,7 +71,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 
 ### 2020
 
-* [Federated Visual Classification with Real-World Data Distribution](https://arxiv.org/abs/2003.08082), ECCV 2020 \[[code](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 38,544 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-14] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
+* [Federated Visual Classification with Real-World Data Distribution](https://arxiv.org/abs/2003.08082), ECCV 2020 \[[code](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 38,560 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-16] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [FedML: A Research Library and Benchmark for Federated Machine Learning](https://arxiv.org/abs/2007.13518), preprint \[[code](https://github.com/FedML-AI/FedML) ⭐ 4,058 | 🐛 147 | 🌐 Python | 📅 2025-10-28] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Federated Optimization in Heterogeneous Networks](https://arxiv.org/abs/1812.06127), MLSYS 2020 \[[code](https://github.com/litian96/FedProx) ⭐ 734 | 🐛 11 | 🌐 Python | 📅 2023-03-24] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [On the Convergence of FedAvg on Non-IID Data](https://arxiv.org/abs/1907.02189), ICLR 2020. \[[code](https://github.com/lx10077/fedavgpy) ⭐ 273 | 🐛 1 | 🌐 Python | 📅 2022-12-07] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
@@ -178,7 +178,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 
 ## Datasets
 
-* [Federated iNaturalist/Landmarks](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 38,544 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-14
+* [Federated iNaturalist/Landmarks](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 38,560 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-16
 * [LEAF](https://github.com/TalwalkarLab/leaf) ⭐ 911 | 🐛 36 | 🌐 Python | 📅 2023-03-24
 
 ## Projects
@@ -192,4 +192,4 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

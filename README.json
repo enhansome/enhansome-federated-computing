@@ -64,10 +64,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-14T22:49:14Z",
+            "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38544
+            "stars": 38560
           }
         },
         {
@@ -340,10 +340,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-14T22:49:14Z",
+            "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38544
+            "stars": 38560
           }
         },
         {
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:46:23.447Z",
+    "last_updated": "2026-08-17T10:01:05.003Z",
     "original_repository": "tushar-semwal/awesome-federated-computing",
     "original_repository_sha": "94ee0eb5300621f9dcf148252e2558ba9fbf8aef",
     "enhanced_repository": "enhansome/enhansome-federated-computing",
