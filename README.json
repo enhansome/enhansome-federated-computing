@@ -32,7 +32,7 @@
                 "last_commit": "2025-11-13T03:27:07Z",
                 "owner": "med-air",
                 "repo": "FedBN",
-                "stars": 273
+                "stars": 272
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-19T20:48:11Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38585
+                "stars": 38591
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2025-10-28T12:44:12Z",
                 "owner": "FedML-AI",
                 "repo": "FedML",
-                "stars": 4059
+                "stars": 4061
               }
             },
             {
@@ -249,10 +249,10 @@
             "archived": false,
             "id": 97641933,
             "language": "Python",
-            "last_commit": "2026-08-19T13:00:48Z",
+            "last_commit": "2026-08-20T15:39:57Z",
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 9954
+            "stars": 9955
           }
         },
         {
@@ -330,10 +330,10 @@
             "archived": false,
             "id": 97641933,
             "language": "Python",
-            "last_commit": "2026-08-19T13:00:48Z",
+            "last_commit": "2026-08-20T15:39:57Z",
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 9954
+            "stars": 9955
           }
         },
         {
@@ -369,7 +369,7 @@
             "last_commit": "2026-08-19T20:48:11Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38585
+            "stars": 38591
           }
         },
         {
@@ -472,7 +472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T09:53:01.202Z",
+    "last_updated": "2026-08-21T09:54:48.367Z",
     "original_repository": "tushar-semwal/awesome-federated-computing",
     "original_repository_id": 173286323,
     "original_repository_sha": "94ee0eb5300621f9dcf148252e2558ba9fbf8aef",
