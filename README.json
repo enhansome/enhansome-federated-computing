@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38610
+                "stars": 38611
               }
             },
             {
@@ -233,6 +233,50 @@
           "description": null,
           "node_type": "group",
           "title": "2019"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LEAF: A Benchmark for Federated Settings",
+              "description": ", preprint. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154853970,
+                "language": "Python",
+                "last_commit": "2023-03-24T22:54:33Z",
+                "owner": "TalwalkarLab",
+                "repo": "leaf",
+                "stars": 911
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2018"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Differentially Private Federated Learning: A Client Level Perspective",
+              "description": ", NIPS 2017 Workshop. [code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 121224951,
+                "language": "Python",
+                "last_commit": "2025-03-07T12:53:08Z",
+                "owner": "SAP-archive",
+                "repo": "machine-learning-diff-private-federated-learning",
+                "stars": 393
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2017"
         }
       ],
       "title": "Research Papers"
@@ -369,7 +413,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38610
+            "stars": 38611
           }
         },
         {
@@ -472,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:07:11.689Z",
+    "last_updated": "2026-08-24T14:23:33.463Z",
     "original_repository": "tushar-semwal/awesome-federated-computing",
     "original_repository_id": 173286323,
     "original_repository_sha": "94ee0eb5300621f9dcf148252e2558ba9fbf8aef",

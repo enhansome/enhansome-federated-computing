@@ -71,8 +71,8 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 
 ### 2020
 
-* [Federated Visual Classification with Real-World Data Distribution](https://arxiv.org/abs/2003.08082), ECCV 2020 \[[code](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 38,610 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-21] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
-* [FedML: A Research Library and Benchmark for Federated Machine Learning](https://arxiv.org/abs/2007.13518), preprint \[[code](https://github.com/FedML-AI/FedML) ⭐ 4,062 | 🐛 148 | 🌐 Python | 📅 2025-10-28] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
+* [Federated Visual Classification with Real-World Data Distribution](https://arxiv.org/abs/2003.08082), ECCV 2020 \[[code](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 38,611 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-21] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
+* [FedML: A Research Library and Benchmark for Federated Machine Learning](https://arxiv.org/abs/2007.13518), preprint \[[code](https://github.com/FedML-AI/FedML) ⭐ 4,062 | 🐛 147 | 🌐 Python | 📅 2025-10-28] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Federated Optimization in Heterogeneous Networks](https://arxiv.org/abs/1812.06127), MLSYS 2020 \[[code](https://github.com/litian96/FedProx) ⭐ 734 | 🐛 11 | 🌐 Python | 📅 2023-03-24] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [On the Convergence of FedAvg on Non-IID Data](https://arxiv.org/abs/1907.02189), ICLR 2020. \[[code](https://github.com/lx10077/fedavgpy) ⭐ 273 | 🐛 1 | 🌐 Python | 📅 2022-12-07] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Multi-Center Federated Learning](https://arxiv.org/abs/2005.01026), preprint \[[code](https://github.com/anonymousgit2020/fedsem) ⭐ 26 | 🐛 2 | 🌐 Python | 📅 2020-04-03] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
@@ -128,6 +128,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 
 ### 2018
 
+* [LEAF: A Benchmark for Federated Settings](https://arxiv.org/abs/1812.01097), preprint. \[[code](https://github.com/TalwalkarLab/leaf) ⭐ 911 | 🐛 36 | 🌐 Python | 📅 2023-03-24] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [A Performance Evaluation of Federated Learning Algorithms](https://dl.acm.org/doi/10.1145/3286490.3286559), DIDL 2018
 * [How to backdoor federated learning](https://arxiv.org/pdf/1807.00459), preprint
 * [Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge](https://arxiv.org/abs/1804.08333)
@@ -137,14 +138,13 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Federated Learning Based Proactive Content Caching in Edge Computing](https://ieeexplore.ieee.org/abstract/document/8647616/), IEEE GLOBECOM 2018
 * [When Edge Meets Learning: Adaptive Control for Resource-Constrained Distributed Machine Learning](http://www.commsp.ee.ic.ac.uk/~wiser/dais-ita/tiffany_papers/infocom_2018.pdf), IEEE Infocom 2018
 * [How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459)
-* [LEAF: A Benchmark for Federated Settings](https://arxiv.org/abs/1812.01097), preprint. \[[code](https://github.com/TalwalkarLab/leaf) ⭐ 911 | 🐛 36 | 🌐 Python | 📅 2023-03-24] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Federated Learning for Mobile Keyboard Prediction - Gboard](https://arxiv.org/abs/1811.03604)
 * [Federated learning of predictive models from federated Electronic Health Records](https://pubmed.ncbi.nlm.nih.gov/29500022/) PMID 2018
 
 ### 2017
 
-* [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), AISTATS 2017
 * [Differentially Private Federated Learning: A Client Level Perspective](https://arxiv.org/abs/1712.07557), NIPS 2017 Workshop. \[[code](https://github.com/SAP/machine-learning-diff-private-federated-learning) ⚠️ Archived] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
+* [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), AISTATS 2017
 * [Federated Tensor Factorization for Computational Phenotyping](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5652331/), KDD 2017
 * [Federated Multi-Task Learning](http://papers.nips.cc/paper/7029-federated-multi-task-learning.pdf), NIPS 2017
 
@@ -178,7 +178,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 
 ## Datasets
 
-* [Federated iNaturalist/Landmarks](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 38,610 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-21
+* [Federated iNaturalist/Landmarks](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 38,611 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-21
 * [LEAF](https://github.com/TalwalkarLab/leaf) ⭐ 911 | 🐛 36 | 🌐 Python | 📅 2023-03-24
 
 ## Projects
