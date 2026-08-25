@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38614
+                "stars": 38615
               }
             },
             {
@@ -296,7 +296,7 @@
             "last_commit": "2026-08-24T09:58:36Z",
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 9956
+            "stars": 9957
           }
         },
         {
@@ -377,7 +377,7 @@
             "last_commit": "2026-08-24T09:58:36Z",
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 9956
+            "stars": 9957
           }
         },
         {
@@ -413,7 +413,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38614
+            "stars": 38615
           }
         },
         {
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:17:46.661Z",
+    "last_updated": "2026-08-25T09:54:35.057Z",
     "original_repository": "tushar-semwal/awesome-federated-computing",
     "original_repository_id": 173286323,
     "original_repository_sha": "94ee0eb5300621f9dcf148252e2558ba9fbf8aef",
