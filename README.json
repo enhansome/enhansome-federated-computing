@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 329117231,
                 "language": "Python",
-                "last_commit": "2026-02-21T16:41:42Z",
+                "last_commit": "2026-08-25T21:38:21Z",
                 "owner": "securefederatedai",
                 "repo": "openfederatedlearning",
                 "stars": 842
@@ -66,10 +66,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-21T19:58:51Z",
+                "last_commit": "2026-08-25T18:30:01Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38615
+                "stars": 38622
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2022-12-07T01:14:28Z",
                 "owner": "lx10077",
                 "repo": "fedavgpy",
-                "stars": 273
+                "stars": 274
               }
             },
             {
@@ -151,7 +151,7 @@
                 "last_commit": "2022-12-07T01:14:28Z",
                 "owner": "lx10077",
                 "repo": "fedavgpy",
-                "stars": 273
+                "stars": 274
               }
             },
             {
@@ -311,7 +311,7 @@
             "last_commit": "2024-11-19T08:19:11Z",
             "owner": "FederatedAI",
             "repo": "FATE",
-            "stars": 6088
+            "stars": 6089
           }
         },
         {
@@ -338,7 +338,7 @@
             "archived": false,
             "id": 329117231,
             "language": "Python",
-            "last_commit": "2026-02-21T16:41:42Z",
+            "last_commit": "2026-08-25T21:38:21Z",
             "owner": "securefederatedai",
             "repo": "openfederatedlearning",
             "stars": 842
@@ -389,7 +389,7 @@
             "archived": false,
             "id": 329117231,
             "language": "Python",
-            "last_commit": "2026-02-21T16:41:42Z",
+            "last_commit": "2026-08-25T21:38:21Z",
             "owner": "securefederatedai",
             "repo": "openfederatedlearning",
             "stars": 842
@@ -410,10 +410,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-21T19:58:51Z",
+            "last_commit": "2026-08-25T18:30:01Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38615
+            "stars": 38622
           }
         },
         {
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:54:35.057Z",
+    "last_updated": "2026-08-26T10:00:28.784Z",
     "original_repository": "tushar-semwal/awesome-federated-computing",
     "original_repository_id": 173286323,
     "original_repository_sha": "94ee0eb5300621f9dcf148252e2558ba9fbf8aef",
