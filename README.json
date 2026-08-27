@@ -66,10 +66,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T18:30:01Z",
+                "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38622
+                "stars": 38630
               }
             },
             {
@@ -293,7 +293,7 @@
             "archived": false,
             "id": 97641933,
             "language": "Python",
-            "last_commit": "2026-08-24T09:58:36Z",
+            "last_commit": "2026-08-26T18:58:33Z",
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 9957
@@ -374,7 +374,7 @@
             "archived": false,
             "id": 97641933,
             "language": "Python",
-            "last_commit": "2026-08-24T09:58:36Z",
+            "last_commit": "2026-08-26T18:58:33Z",
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 9957
@@ -410,10 +410,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T18:30:01Z",
+            "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38622
+            "stars": 38630
           }
         },
         {
@@ -516,9 +516,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:00:28.784Z",
-    "original_repository": "tushar-semwal/awesome-federated-computing",
-    "original_repository_id": 173286323,
+    "last_updated": "2026-08-27T11:39:51.533Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 173286323,
+      "language": null,
+      "last_commit": "2023-08-01T04:26:34Z",
+      "owner": "tushar-semwal",
+      "repo": "awesome-federated-computing",
+      "stars": 479
+    },
     "original_repository_sha": "94ee0eb5300621f9dcf148252e2558ba9fbf8aef",
     "enhanced_repository": "enhansome/enhansome-federated-computing",
     "enhanced_repository_description": null,
