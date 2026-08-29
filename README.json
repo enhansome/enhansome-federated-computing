@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Open Framework for Federated Learning.",
+                "homepage": "https://openfl.readthedocs.io",
                 "id": 329117231,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T21:38:21Z",
+                "open_issues": 83,
                 "owner": "securefederatedai",
                 "repo": "openfederatedlearning",
-                "stars": 842
+                "stars": 842,
+                "topics": [
+                  "federated-analytics",
+                  "federated-evaluation",
+                  "federated-learning",
+                  "privacy-preserving-ml",
+                  "python",
+                  "trusted-execution-environment"
+                ]
               },
               "first_seen": "2026-08-28T20:56:56.790Z"
             },
@@ -28,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR'21] FedBN: Federated Learning on Non-IID Features via Local Batch Normalization",
+                "homepage": null,
                 "id": 334030155,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-11-13T03:27:07Z",
+                "open_issues": 7,
                 "owner": "med-air",
                 "repo": "FedBN",
-                "stars": 272
+                "stars": 272,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:56.790Z"
             },
@@ -44,12 +61,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Similarity Guided Model Aggregation for Federated Learning",
+                "homepage": null,
                 "id": 353183844,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-03-22T16:24:07Z",
+                "open_issues": 1,
                 "owner": "chamathpali",
                 "repo": "FedSim",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "deep-learning",
+                  "federated-learning",
+                  "machine-learning",
+                  "privacy-preserving-machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T20:56:56.790Z"
             }
@@ -67,12 +94,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Research",
+                "homepage": "https://research.google",
                 "id": 151619717,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T09:11:14Z",
+                "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38641
+                "stars": 38643,
+                "topics": [
+                  "ai",
+                  "machine-learning",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-28T20:56:56.790Z"
             },
@@ -83,12 +119,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FEDML - The unified and scalable ML library for large-scale distributed training, model serving, and federated learning. FEDML Launch, a cross-cloud scheduler, further enables running any AI jobs on any GPU cloud or on-premise cluster. Built on this library, TensorOpera AI (https://TensorOpera.ai) is your generative AI platform at scale.",
+                "homepage": "https://TensorOpera.ai",
                 "id": 281519510,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-28T12:44:12Z",
+                "open_issues": 147,
                 "owner": "FedML-AI",
                 "repo": "FedML",
-                "stars": 4061
+                "stars": 4061,
+                "topics": [
+                  "ai-agent",
+                  "deep-learning",
+                  "distributed-training",
+                  "edge-ai",
+                  "federated-learning",
+                  "inference-engine",
+                  "machine-learning",
+                  "mlops",
+                  "model-deployment",
+                  "model-serving",
+                  "on-device-training"
+                ]
               },
               "first_seen": "2026-08-28T20:56:56.790Z"
             },
@@ -99,12 +152,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Federated Optimization in Heterogeneous Networks (MLSys '20)",
+                "homepage": null,
                 "id": 167483572,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-24T21:55:06Z",
+                "open_issues": 11,
                 "owner": "litian96",
                 "repo": "FedProx",
-                "stars": 734
+                "stars": 734,
+                "topics": [
+                  "distributed-optimization",
+                  "federated-optimization",
+                  "large-scale-learning",
+                  "parallel-learning"
+                ]
               },
               "first_seen": "2026-08-28T20:56:56.790Z"
             },
@@ -115,12 +178,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "On the Convergence of FedAvg on Non-IID Data",
+                "homepage": null,
                 "id": 223700059,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-07T01:14:28Z",
+                "open_issues": 1,
                 "owner": "lx10077",
                 "repo": "fedavgpy",
-                "stars": 274
+                "stars": 274,
+                "topics": [
+                  "communication",
+                  "fedavg",
+                  "federated-learning"
+                ]
               },
               "first_seen": "2026-08-28T20:56:56.790Z"
             },
@@ -131,12 +203,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 252717736,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2020-04-03T12:28:11Z",
+                "open_issues": 2,
                 "owner": "anonymousgit2020",
                 "repo": "fedsem",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:56.790Z"
             }
@@ -154,12 +231,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "On the Convergence of FedAvg on Non-IID Data",
+                "homepage": null,
                 "id": 223700059,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-07T01:14:28Z",
+                "open_issues": 1,
                 "owner": "lx10077",
                 "repo": "fedavgpy",
-                "stars": 274
+                "stars": 274,
+                "topics": [
+                  "communication",
+                  "fedavg",
+                  "federated-learning"
+                ]
               },
               "first_seen": "2026-08-28T20:56:56.790Z"
             },
@@ -170,12 +256,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Democratize access to data, decentralize Artificial intelligence and enhance user privacy with Federated learning and Blockchain.",
+                "homepage": null,
                 "id": 173145619,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-08-24T00:07:45Z",
+                "open_issues": 3,
                 "owner": "sreyafrancis",
                 "repo": "BlockchainForFederatedLearning",
-                "stars": 192
+                "stars": 192,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:56.790Z"
             },
@@ -186,12 +277,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clustered Federated Learning: Model-Agnostic Distributed Multi-Task Optimization under Privacy Constraints",
+                "homepage": null,
                 "id": 270739433,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2021-03-16T01:41:05Z",
+                "open_issues": 2,
                 "owner": "felisat",
                 "repo": "clustered-federated-learning",
-                "stars": 187
+                "stars": 187,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:56.790Z"
             },
@@ -202,12 +298,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 175170608,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-10-11T13:55:02Z",
+                "open_issues": 8,
                 "owner": "felisat",
                 "repo": "federated-learning",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:56.790Z"
             },
@@ -218,12 +319,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Attentive Federated Learning for Private NLM",
+                "homepage": "https://arxiv.org/abs/1812.07108",
                 "id": 162122348,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-25T10:13:51Z",
+                "open_issues": 4,
                 "owner": "shaoxiongji",
                 "repo": "fed-att",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "attention-mechanism",
+                  "deep-learning",
+                  "federated-learning",
+                  "language-modeling",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T20:56:56.790Z"
             },
@@ -234,12 +346,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 132642398,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2018-07-06T23:18:09Z",
+                "open_issues": 1,
                 "owner": "florian",
                 "repo": "federated-learning",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:56.790Z"
             }
@@ -257,12 +374,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Leaf: A Benchmark for Federated Settings",
+                "homepage": null,
                 "id": 154853970,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2023-03-24T22:54:33Z",
+                "open_issues": 36,
                 "owner": "TalwalkarLab",
                 "repo": "leaf",
-                "stars": 911
+                "stars": 911,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:56.790Z"
             }
@@ -280,12 +402,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simulate a federated setting and run differentially private federated learning.",
+                "homepage": "https://arxiv.org/abs/1712.07557v1",
                 "id": 121224951,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-07T12:53:08Z",
+                "open_issues": 2,
                 "owner": "SAP-archive",
                 "repo": "machine-learning-diff-private-federated-learning",
-                "stars": 393
+                "stars": 393,
+                "topics": [
+                  "differential-privacy",
+                  "federated-learning",
+                  "machine-learning",
+                  "sample",
+                  "sample-code",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T20:56:56.790Z"
             }
@@ -307,12 +441,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Perform data science on data that remains in someone else's server",
+            "homepage": "https://www.openmined.org/",
             "id": 97641933,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:54:07Z",
+            "open_issues": 21,
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 9958
+            "stars": 9974,
+            "topics": [
+              "cryptography",
+              "deep-learning",
+              "federated-learning",
+              "hacktoberfest",
+              "privacy",
+              "python",
+              "pytorch",
+              "secure-computation",
+              "syft"
+            ]
           },
           "first_seen": "2026-08-28T20:56:56.790Z"
         },
@@ -323,12 +472,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Industrial Grade Federated Learning Framework",
+            "homepage": null,
             "id": 167349656,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-19T08:19:11Z",
+            "open_issues": 18,
             "owner": "FederatedAI",
             "repo": "FATE",
-            "stars": 6090
+            "stars": 6090,
+            "topics": [
+              "algorithm",
+              "fate",
+              "federated-learning",
+              "machine-learning",
+              "privacy-preserving"
+            ]
           },
           "first_seen": "2026-08-28T20:56:56.790Z"
         },
@@ -339,12 +499,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PyTorch Implementation of Federated Learning",
+            "homepage": "http://doi.org/10.5281/zenodo.4321561",
             "id": 127416920,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-25T10:13:30Z",
+            "open_issues": 16,
             "owner": "shaoxiongji",
             "repo": "federated-learning",
-            "stars": 1515
+            "stars": 1515,
+            "topics": [
+              "deep-learning",
+              "federated-learning",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T20:56:56.790Z"
         },
@@ -355,12 +524,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Open Framework for Federated Learning.",
+            "homepage": "https://openfl.readthedocs.io",
             "id": 329117231,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T21:38:21Z",
+            "open_issues": 83,
             "owner": "securefederatedai",
             "repo": "openfederatedlearning",
-            "stars": 842
+            "stars": 842,
+            "topics": [
+              "federated-analytics",
+              "federated-evaluation",
+              "federated-learning",
+              "privacy-preserving-ml",
+              "python",
+              "trusted-execution-environment"
+            ]
           },
           "first_seen": "2026-08-28T20:56:56.790Z"
         },
@@ -371,12 +552,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Federated Deep Learning in PaddlePaddle",
+            "homepage": null,
             "id": 210873203,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-26T22:30:56Z",
+            "open_issues": 56,
             "owner": "PaddlePaddle",
             "repo": "PaddleFL",
-            "stars": 512
+            "stars": 512,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:56:56.790Z"
         }
@@ -393,12 +579,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Perform data science on data that remains in someone else's server",
+            "homepage": "https://www.openmined.org/",
             "id": 97641933,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:54:07Z",
+            "open_issues": 21,
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 9958
+            "stars": 9974,
+            "topics": [
+              "cryptography",
+              "deep-learning",
+              "federated-learning",
+              "hacktoberfest",
+              "privacy",
+              "python",
+              "pytorch",
+              "secure-computation",
+              "syft"
+            ]
           },
           "first_seen": "2026-08-28T20:56:56.790Z"
         },
@@ -409,12 +610,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Open Framework for Federated Learning.",
+            "homepage": "https://openfl.readthedocs.io",
             "id": 329117231,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T21:38:21Z",
+            "open_issues": 83,
             "owner": "securefederatedai",
             "repo": "openfederatedlearning",
-            "stars": 842
+            "stars": 842,
+            "topics": [
+              "federated-analytics",
+              "federated-evaluation",
+              "federated-learning",
+              "privacy-preserving-ml",
+              "python",
+              "trusted-execution-environment"
+            ]
           },
           "first_seen": "2026-08-28T20:56:56.790Z"
         }
@@ -431,12 +644,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Research",
+            "homepage": "https://research.google",
             "id": 151619717,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T09:11:14Z",
+            "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38641
+            "stars": 38643,
+            "topics": [
+              "ai",
+              "machine-learning",
+              "research"
+            ]
           },
           "first_seen": "2026-08-28T20:56:56.790Z"
         },
@@ -447,12 +669,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Leaf: A Benchmark for Federated Settings",
+            "homepage": null,
             "id": 154853970,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2023-03-24T22:54:33Z",
+            "open_issues": 36,
             "owner": "TalwalkarLab",
             "repo": "leaf",
-            "stars": 911
+            "stars": 911,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:56:56.790Z"
         }
@@ -474,12 +701,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Federated Learning: Client application doing classification of images and local training. Works better with the Parameter Server at https://github.com/mccorby/PhotoLabellerServer",
+                "homepage": null,
                 "id": 124423467,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2019-03-18T10:34:39Z",
+                "open_issues": 2,
                 "owner": "mccorby",
                 "repo": "PhotoLabeller",
-                "stars": 150
+                "stars": 150,
+                "topics": [
+                  "android",
+                  "deeplearning4j",
+                  "dl4j",
+                  "edge-computing",
+                  "federated-learning",
+                  "kotlin",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T20:56:56.790Z"
             },
@@ -490,12 +730,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Federated Learning: Parameter Server doing aggregation of updates to a model coming from clients participating in a Federated Learning setup. See also the Android application companion at https://github.com/mccorby/PhotoLabeller",
+                "homepage": null,
                 "id": 124552010,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2018-10-07T07:08:44Z",
+                "open_issues": 6,
                 "owner": "mccorby",
                 "repo": "PhotoLabellerServer",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "cifar-10",
+                  "deeplearning4j",
+                  "dl4j",
+                  "federated-learning",
+                  "kotlin",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T20:56:56.790Z"
             }
@@ -513,12 +765,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Decentralized access control middleware for data exchange and monetization",
+                "homepage": null,
                 "id": 310175362,
                 "language": "Python",
+                "license": "LGPL-2.1",
                 "last_commit": "2021-06-12T16:21:28Z",
+                "open_issues": 0,
                 "owner": "MVP-Labs",
                 "repo": "data-token",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "blockchain-technology",
+                  "cryptocurrency",
+                  "data-exchange",
+                  "data-unions",
+                  "datatoken",
+                  "decentralized",
+                  "distributed-tracing"
+                ]
               },
               "first_seen": "2026-08-28T20:56:56.790Z"
             },
@@ -529,12 +794,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Privacy-preserving data sandbox for on-premise computation",
+                "homepage": null,
                 "id": 334908358,
                 "language": "Python",
+                "license": "LGPL-2.1",
                 "last_commit": "2021-06-15T05:59:39Z",
+                "open_issues": 0,
                 "owner": "MVP-Labs",
                 "repo": "compute-to-data",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "cryptography",
+                  "deep-learning",
+                  "on-premise",
+                  "privacy",
+                  "traceability"
+                ]
               },
               "first_seen": "2026-08-28T20:56:56.790Z"
             }
@@ -545,15 +821,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:56:56.790Z",
+    "last_updated": "2026-08-29T04:43:16.111Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":books: :eyeglasses: A collection of research papers, codes, tutorials and blogs on Federated Computing/Learning.",
+      "homepage": null,
       "id": 173286323,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2023-08-01T04:26:34Z",
+      "open_issues": 1,
       "owner": "tushar-semwal",
       "repo": "awesome-federated-computing",
-      "stars": 479
+      "stars": 479,
+      "topics": [
+        "awesome-list",
+        "decentralized",
+        "deep-learning",
+        "distributed-computing",
+        "federated-learning",
+        "machine-learning"
+      ]
     },
     "original_repository_sha": "94ee0eb5300621f9dcf148252e2558ba9fbf8aef",
     "enhanced_repository": "enhansome/enhansome-federated-computing",
