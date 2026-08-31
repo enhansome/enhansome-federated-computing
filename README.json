@@ -99,11 +99,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T09:11:14Z",
+                "last_commit": "2026-08-31T14:53:17Z",
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38652,
+                "stars": 38659,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -161,7 +161,7 @@
                 "open_issues": 11,
                 "owner": "litian96",
                 "repo": "FedProx",
-                "stars": 734,
+                "stars": 733,
                 "topics": [
                   "distributed-optimization",
                   "federated-optimization",
@@ -383,7 +383,7 @@
                 "open_issues": 36,
                 "owner": "TalwalkarLab",
                 "repo": "leaf",
-                "stars": 911,
+                "stars": 910,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:56.790Z"
@@ -450,7 +450,7 @@
             "open_issues": 20,
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 10014,
+            "stars": 10019,
             "topics": [
               "cryptography",
               "deep-learning",
@@ -481,7 +481,7 @@
             "open_issues": 18,
             "owner": "FederatedAI",
             "repo": "FATE",
-            "stars": 6091,
+            "stars": 6090,
             "topics": [
               "algorithm",
               "fate",
@@ -508,7 +508,7 @@
             "open_issues": 16,
             "owner": "shaoxiongji",
             "repo": "federated-learning",
-            "stars": 1516,
+            "stars": 1515,
             "topics": [
               "deep-learning",
               "federated-learning",
@@ -588,7 +588,7 @@
             "open_issues": 20,
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 10014,
+            "stars": 10019,
             "topics": [
               "cryptography",
               "deep-learning",
@@ -649,11 +649,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T09:11:14Z",
+            "last_commit": "2026-08-31T14:53:17Z",
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38652,
+            "stars": 38659,
             "topics": [
               "ai",
               "machine-learning",
@@ -678,7 +678,7 @@
             "open_issues": 36,
             "owner": "TalwalkarLab",
             "repo": "leaf",
-            "stars": 911,
+            "stars": 910,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:56.790Z"
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:26:39.141Z",
+    "last_updated": "2026-08-31T17:06:43.413Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: :eyeglasses: A collection of research papers, codes, tutorials and blogs on Federated Computing/Learning.",
@@ -833,7 +833,7 @@
       "open_issues": 1,
       "owner": "tushar-semwal",
       "repo": "awesome-federated-computing",
-      "stars": 479,
+      "stars": 478,
       "topics": [
         "awesome-list",
         "decentralized",
