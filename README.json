@@ -21,7 +21,7 @@
                 "open_issues": 83,
                 "owner": "securefederatedai",
                 "repo": "openfederatedlearning",
-                "stars": 842,
+                "stars": 843,
                 "topics": [
                   "federated-analytics",
                   "federated-evaluation",
@@ -103,7 +103,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38665,
+                "stars": 38678,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -446,11 +446,11 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T19:54:07Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-02T13:03:25Z",
+            "open_issues": 22,
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 10021,
+            "stars": 10022,
             "topics": [
               "cryptography",
               "deep-learning",
@@ -508,7 +508,7 @@
             "open_issues": 16,
             "owner": "shaoxiongji",
             "repo": "federated-learning",
-            "stars": 1515,
+            "stars": 1516,
             "topics": [
               "deep-learning",
               "federated-learning",
@@ -533,7 +533,7 @@
             "open_issues": 83,
             "owner": "securefederatedai",
             "repo": "openfederatedlearning",
-            "stars": 842,
+            "stars": 843,
             "topics": [
               "federated-analytics",
               "federated-evaluation",
@@ -584,11 +584,11 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T19:54:07Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-02T13:03:25Z",
+            "open_issues": 22,
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 10021,
+            "stars": 10022,
             "topics": [
               "cryptography",
               "deep-learning",
@@ -619,7 +619,7 @@
             "open_issues": 83,
             "owner": "securefederatedai",
             "repo": "openfederatedlearning",
-            "stars": 842,
+            "stars": 843,
             "topics": [
               "federated-analytics",
               "federated-evaluation",
@@ -653,7 +653,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38665,
+            "stars": 38678,
             "topics": [
               "ai",
               "machine-learning",
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T14:11:28.363Z",
+    "last_updated": "2026-09-02T13:43:25.742Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: :eyeglasses: A collection of research papers, codes, tutorials and blogs on Federated Computing/Learning.",
