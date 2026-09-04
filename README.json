@@ -286,7 +286,7 @@
                 "open_issues": 2,
                 "owner": "felisat",
                 "repo": "clustered-federated-learning",
-                "stars": 187,
+                "stars": 188,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:56.790Z"
@@ -383,7 +383,7 @@
                 "open_issues": 36,
                 "owner": "TalwalkarLab",
                 "repo": "leaf",
-                "stars": 910,
+                "stars": 911,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:56.790Z"
@@ -446,11 +446,11 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T14:37:38Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-04T11:40:17Z",
+            "open_issues": 22,
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 10024,
+            "stars": 10025,
             "topics": [
               "cryptography",
               "deep-learning",
@@ -584,11 +584,11 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T14:37:38Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-04T11:40:17Z",
+            "open_issues": 22,
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 10024,
+            "stars": 10025,
             "topics": [
               "cryptography",
               "deep-learning",
@@ -678,7 +678,7 @@
             "open_issues": 36,
             "owner": "TalwalkarLab",
             "repo": "leaf",
-            "stars": 910,
+            "stars": 911,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:56.790Z"
@@ -710,7 +710,7 @@
                 "open_issues": 2,
                 "owner": "mccorby",
                 "repo": "PhotoLabeller",
-                "stars": 150,
+                "stars": 149,
                 "topics": [
                   "android",
                   "deeplearning4j",
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T13:38:50.213Z",
+    "last_updated": "2026-09-04T13:35:02.664Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: :eyeglasses: A collection of research papers, codes, tutorials and blogs on Federated Computing/Learning.",
