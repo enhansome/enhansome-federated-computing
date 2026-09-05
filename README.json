@@ -103,7 +103,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38689,
+                "stars": 38693,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -446,11 +446,11 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T11:40:17Z",
+            "last_commit": "2026-09-04T23:12:31Z",
             "open_issues": 22,
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 10025,
+            "stars": 10024,
             "topics": [
               "cryptography",
               "deep-learning",
@@ -508,7 +508,7 @@
             "open_issues": 16,
             "owner": "shaoxiongji",
             "repo": "federated-learning",
-            "stars": 1516,
+            "stars": 1517,
             "topics": [
               "deep-learning",
               "federated-learning",
@@ -584,11 +584,11 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T11:40:17Z",
+            "last_commit": "2026-09-04T23:12:31Z",
             "open_issues": 22,
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 10025,
+            "stars": 10024,
             "topics": [
               "cryptography",
               "deep-learning",
@@ -653,7 +653,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38689,
+            "stars": 38693,
             "topics": [
               "ai",
               "machine-learning",
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T13:35:02.664Z",
+    "last_updated": "2026-09-05T12:47:18.734Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: :eyeglasses: A collection of research papers, codes, tutorials and blogs on Federated Computing/Learning.",
