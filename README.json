@@ -103,7 +103,7 @@
                 "open_issues": 1990,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38712,
+                "stars": 38718,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -128,7 +128,7 @@
                 "open_issues": 147,
                 "owner": "FedML-AI",
                 "repo": "FedML",
-                "stars": 4063,
+                "stars": 4064,
                 "topics": [
                   "ai-agent",
                   "deep-learning",
@@ -446,8 +446,8 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T13:29:30Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-09T10:09:11Z",
+            "open_issues": 11,
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 10028,
@@ -481,7 +481,7 @@
             "open_issues": 18,
             "owner": "FederatedAI",
             "repo": "FATE",
-            "stars": 6091,
+            "stars": 6092,
             "topics": [
               "algorithm",
               "fate",
@@ -584,8 +584,8 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T13:29:30Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-09T10:09:11Z",
+            "open_issues": 11,
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 10028,
@@ -653,7 +653,7 @@
             "open_issues": 1990,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38712,
+            "stars": 38718,
             "topics": [
               "ai",
               "machine-learning",
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T13:41:17.874Z",
+    "last_updated": "2026-09-09T13:46:26.069Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: :eyeglasses: A collection of research papers, codes, tutorials and blogs on Federated Computing/Learning.",
