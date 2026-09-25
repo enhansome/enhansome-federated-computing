@@ -70,7 +70,7 @@
                 "open_issues": 1,
                 "owner": "chamathpali",
                 "repo": "FedSim",
-                "stars": 26,
+                "stars": 25,
                 "topics": [
                   "deep-learning",
                   "federated-learning",
@@ -103,7 +103,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38825,
+                "stars": 38833,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -446,8 +446,8 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T01:23:54Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-25T13:48:01Z",
+            "open_issues": 21,
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 10034,
@@ -481,7 +481,7 @@
             "open_issues": 17,
             "owner": "FederatedAI",
             "repo": "FATE",
-            "stars": 6098,
+            "stars": 6097,
             "topics": [
               "algorithm",
               "fate",
@@ -508,7 +508,7 @@
             "open_issues": 16,
             "owner": "shaoxiongji",
             "repo": "federated-learning",
-            "stars": 1517,
+            "stars": 1516,
             "topics": [
               "deep-learning",
               "federated-learning",
@@ -584,8 +584,8 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T01:23:54Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-25T13:48:01Z",
+            "open_issues": 21,
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 10034,
@@ -653,7 +653,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38825,
+            "stars": 38833,
             "topics": [
               "ai",
               "machine-learning",
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T14:14:59.899Z",
+    "last_updated": "2026-09-25T14:38:31.768Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: :eyeglasses: A collection of research papers, codes, tutorials and blogs on Federated Computing/Learning.",
