@@ -103,7 +103,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38860,
+                "stars": 38863,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -447,7 +447,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T12:38:07Z",
-            "open_issues": 29,
+            "open_issues": 31,
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 10041,
@@ -495,7 +495,7 @@
         {
           "node_type": "item",
           "title": "PyTorch Federated Learning - Github",
-          "description": null,
+          "description": "shaoxiongji/federated-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -575,7 +575,7 @@
         {
           "node_type": "item",
           "title": "PySyft",
-          "description": null,
+          "description": "OpenMined/PySyft",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -585,7 +585,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T12:38:07Z",
-            "open_issues": 29,
+            "open_issues": 31,
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 10041,
@@ -606,7 +606,7 @@
         {
           "node_type": "item",
           "title": "OpenFL",
-          "description": null,
+          "description": "securefederatedai/openfederatedlearning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -640,7 +640,7 @@
         {
           "node_type": "item",
           "title": "Federated iNaturalist/Landmarks",
-          "description": null,
+          "description": "google-research/google-research",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -653,7 +653,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38860,
+            "stars": 38863,
             "topics": [
               "ai",
               "machine-learning",
@@ -665,7 +665,7 @@
         {
           "node_type": "item",
           "title": "LEAF",
-          "description": null,
+          "description": "TalwalkarLab/leaf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -697,7 +697,7 @@
             {
               "node_type": "item",
               "title": "Client",
-              "description": null,
+              "description": "mccorby/PhotoLabeller",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -726,7 +726,7 @@
             {
               "node_type": "item",
               "title": "Server",
-              "description": null,
+              "description": "mccorby/PhotoLabellerServer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -761,7 +761,7 @@
             {
               "node_type": "item",
               "title": "DataToken",
-              "description": null,
+              "description": "MVP-Labs/data-token",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -790,7 +790,7 @@
             {
               "node_type": "item",
               "title": "Compute-to-Data",
-              "description": null,
+              "description": "MVP-Labs/compute-to-data",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:52:20.360Z",
+    "last_updated": "2026-10-03T04:44:10.986Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: :eyeglasses: A collection of research papers, codes, tutorials and blogs on Federated Computing/Learning.",
