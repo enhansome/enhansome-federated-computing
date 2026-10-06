@@ -103,7 +103,7 @@
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38874,
+                "stars": 38877,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -125,7 +125,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-10-28T12:44:12Z",
-                "open_issues": 147,
+                "open_issues": 148,
                 "owner": "FedML-AI",
                 "repo": "FedML",
                 "stars": 4069,
@@ -446,8 +446,8 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T14:11:17Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-06T15:11:34Z",
+            "open_issues": 32,
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 10040,
@@ -584,8 +584,8 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T14:11:17Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-06T15:11:34Z",
+            "open_issues": 32,
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 10040,
@@ -653,7 +653,7 @@
             "open_issues": 1997,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38874,
+            "stars": 38877,
             "topics": [
               "ai",
               "machine-learning",
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:18:42.359Z",
+    "last_updated": "2026-10-06T16:00:48.177Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: :eyeglasses: A collection of research papers, codes, tutorials and blogs on Federated Computing/Learning.",
