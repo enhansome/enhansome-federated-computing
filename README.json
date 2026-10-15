@@ -99,11 +99,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T05:46:02Z",
+                "last_commit": "2026-10-15T02:18:00Z",
                 "open_issues": 2005,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38912,
+                "stars": 38920,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -383,7 +383,7 @@
                 "open_issues": 36,
                 "owner": "TalwalkarLab",
                 "repo": "leaf",
-                "stars": 911,
+                "stars": 910,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:56.790Z"
@@ -446,11 +446,11 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T14:10:24Z",
+            "last_commit": "2026-10-15T13:43:59Z",
             "open_issues": 12,
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 10043,
+            "stars": 10044,
             "topics": [
               "cryptography",
               "deep-learning",
@@ -481,7 +481,7 @@
             "open_issues": 17,
             "owner": "FederatedAI",
             "repo": "FATE",
-            "stars": 6107,
+            "stars": 6106,
             "topics": [
               "algorithm",
               "fate",
@@ -584,11 +584,11 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T14:10:24Z",
+            "last_commit": "2026-10-15T13:43:59Z",
             "open_issues": 12,
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 10043,
+            "stars": 10044,
             "topics": [
               "cryptography",
               "deep-learning",
@@ -649,11 +649,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T05:46:02Z",
+            "last_commit": "2026-10-15T02:18:00Z",
             "open_issues": 2005,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38912,
+            "stars": 38920,
             "topics": [
               "ai",
               "machine-learning",
@@ -678,7 +678,7 @@
             "open_issues": 36,
             "owner": "TalwalkarLab",
             "repo": "leaf",
-            "stars": 911,
+            "stars": 910,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:56.790Z"
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T14:33:15.911Z",
+    "last_updated": "2026-10-15T14:13:09.397Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: :eyeglasses: A collection of research papers, codes, tutorials and blogs on Federated Computing/Learning.",
