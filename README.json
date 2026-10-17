@@ -103,7 +103,7 @@
                 "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38924,
+                "stars": 38927,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -653,7 +653,7 @@
             "open_issues": 2008,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38924,
+            "stars": 38927,
             "topics": [
               "ai",
               "machine-learning",
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T14:00:56.399Z",
+    "last_updated": "2026-10-17T13:00:55.725Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: :eyeglasses: A collection of research papers, codes, tutorials and blogs on Federated Computing/Learning.",
