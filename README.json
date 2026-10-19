@@ -103,7 +103,7 @@
                 "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38936,
+                "stars": 38957,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -446,7 +446,7 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T13:29:25Z",
+            "last_commit": "2026-10-19T07:00:35Z",
             "open_issues": 11,
             "owner": "OpenMined",
             "repo": "PySyft",
@@ -481,7 +481,7 @@
             "open_issues": 17,
             "owner": "FederatedAI",
             "repo": "FATE",
-            "stars": 6106,
+            "stars": 6107,
             "topics": [
               "algorithm",
               "fate",
@@ -584,7 +584,7 @@
             "id": 97641933,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T13:29:25Z",
+            "last_commit": "2026-10-19T07:00:35Z",
             "open_issues": 11,
             "owner": "OpenMined",
             "repo": "PySyft",
@@ -653,7 +653,7 @@
             "open_issues": 2008,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38936,
+            "stars": 38957,
             "topics": [
               "ai",
               "machine-learning",
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T13:22:03.462Z",
+    "last_updated": "2026-10-19T16:31:24.790Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: :eyeglasses: A collection of research papers, codes, tutorials and blogs on Federated Computing/Learning.",
