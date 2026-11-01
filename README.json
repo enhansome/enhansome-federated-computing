@@ -103,7 +103,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39070,
+                "stars": 39080,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -447,10 +447,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T18:44:39Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 10048,
+            "stars": 10049,
             "topics": [
               "cryptography",
               "deep-learning",
@@ -585,10 +585,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T18:44:39Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 10048,
+            "stars": 10049,
             "topics": [
               "cryptography",
               "deep-learning",
@@ -653,7 +653,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39070,
+            "stars": 39080,
             "topics": [
               "ai",
               "machine-learning",
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T15:23:22.772Z",
+    "last_updated": "2026-11-01T16:06:50.405Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: :eyeglasses: A collection of research papers, codes, tutorials and blogs on Federated Computing/Learning.",
