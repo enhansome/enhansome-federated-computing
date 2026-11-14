@@ -71,7 +71,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 
 ### 2020
 
-* [Federated Visual Classification with Real-World Data Distribution](https://arxiv.org/abs/2003.08082), ECCV 2020 \[[code](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 39,166 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-11] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
+* [Federated Visual Classification with Real-World Data Distribution](https://arxiv.org/abs/2003.08082), ECCV 2020 \[[code](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 39,174 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-14] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [FedML: A Research Library and Benchmark for Federated Machine Learning](https://arxiv.org/abs/2007.13518), preprint \[[code](https://github.com/FedML-AI/FedML) ⭐ 4,069 | 🐛 150 | 🌐 Python | 📅 2026-11-12] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Federated Optimization in Heterogeneous Networks](https://arxiv.org/abs/1812.06127), MLSYS 2020 \[[code](https://github.com/litian96/FedProx) ⭐ 733 | 🐛 12 | 🌐 Python | 📅 2023-03-24] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [On the Convergence of FedAvg on Non-IID Data](https://arxiv.org/abs/1907.02189), ICLR 2020. \[[code](https://github.com/lx10077/fedavgpy) ⭐ 275 | 🐛 1 | 🌐 Python | 📅 2022-12-07] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
@@ -163,7 +163,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 
 * [PySyft - Github](https://github.com/OpenMined/PySyft) ⭐ 10,056 | 🐛 30 | 🌐 Python | 📅 2026-11-13 - The PyTorch based library.
 * [Industrial Federated Learning Framework](https://github.com/WeBankFinTech/FATE) ⭐ 6,113 | 🐛 17 | 🌐 Python | 📅 2024-11-19, Federated AI Technology Enabler, WeBank AI
-* [PyTorch Federated Learning - Github](https://github.com/shaoxiongji/federated-learning) ⭐ 1,516 | 🐛 17 | 🌐 Python | 📅 2024-07-25
+* [PyTorch Federated Learning - Github](https://github.com/shaoxiongji/federated-learning) ⭐ 1,517 | 🐛 17 | 🌐 Python | 📅 2024-07-25
 * [OpenFL](https://github.com/intel/openfl) ⭐ 845 | 🐛 84 | 🌐 Python | 📅 2026-08-25 - An open-source framework for Federated Learning on top of TF/PyTorch/etc.
 * [Paddle Federated Learning](https://github.com/PaddlePaddle/PaddleFL) ⭐ 511 | 🐛 56 | 🌐 Python | 📅 2023-07-26 - Federated Deep Learning in PaddlePaddle.
 * [Tensorflow Federated - TFF](https://www.tensorflow.org/federated) - A library on top of Tensorflow.
@@ -178,7 +178,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 
 ## Datasets
 
-* [Federated iNaturalist/Landmarks](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 39,166 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-11
+* [Federated iNaturalist/Landmarks](https://github.com/google-research/google-research/tree/master/federated_vision_datasets) ⭐ 39,174 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-14
 * [LEAF](https://github.com/TalwalkarLab/leaf) ⭐ 908 | 🐛 36 | 🌐 Python | 📅 2023-03-24
 
 ## Projects
@@ -192,4 +192,4 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
