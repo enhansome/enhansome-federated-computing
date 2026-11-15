@@ -103,7 +103,7 @@
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39174,
+                "stars": 39180,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -411,7 +411,7 @@
                 "open_issues": 2,
                 "owner": "SAP-archive",
                 "repo": "machine-learning-diff-private-federated-learning",
-                "stars": 393,
+                "stars": 394,
                 "topics": [
                   "differential-privacy",
                   "federated-learning",
@@ -653,7 +653,7 @@
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39174,
+            "stars": 39180,
             "topics": [
               "ai",
               "machine-learning",
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T15:52:10.279Z",
+    "last_updated": "2026-11-15T16:26:15.085Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: :eyeglasses: A collection of research papers, codes, tutorials and blogs on Federated Computing/Learning.",
