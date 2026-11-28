@@ -100,10 +100,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-27T16:02:30Z",
-                "open_issues": 2023,
+                "open_issues": 2024,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39561,
+                "stars": 39576,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -447,7 +447,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-26T15:08:09Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 10064,
@@ -585,7 +585,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-26T15:08:09Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "OpenMined",
             "repo": "PySyft",
             "stars": 10064,
@@ -650,10 +650,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-11-27T16:02:30Z",
-            "open_issues": 2023,
+            "open_issues": 2024,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39561,
+            "stars": 39576,
             "topics": [
               "ai",
               "machine-learning",
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T19:03:13.776Z",
+    "last_updated": "2026-11-28T17:38:12.982Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: :eyeglasses: A collection of research papers, codes, tutorials and blogs on Federated Computing/Learning.",
